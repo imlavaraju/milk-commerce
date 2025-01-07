@@ -17,7 +17,7 @@ function Hero() {
           <div className="flex justify-center md:justify-start">
             <Link
               to="/items"
-              className="inline-flex text-white bg-emerald-600 border-0 py-2 px-6 focus:outline-none hover:bg-emerald-700 rounded text-lg mb-4 md:mb-0"
+              className="inline-flex text-white bg-emerald-600 border-0 py-2 px-6 focus:outline-none hover:bg-emerald-700 rounded text-lg "
             >
               CHOOSE ORDERS
             </Link>
